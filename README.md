@@ -12,8 +12,11 @@ Hyy, I hold a BCA degree from VNSGU,surat in 2021 and currently, I am studying "
 
 <a href="https://www.twitter.com/purvish37" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/purvish37?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000"
-/></a><a href="https://www.github.com/PurvishDhameliya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/PurvishDhameliya?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
+/></a><br /><br />
+
+### Working Experience
+<a href="https://www.upwork.com/freelancers/~01d9e6d7d8dcbb86dc" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
 
 ### Skills
 
