@@ -18,6 +18,7 @@ src="https://img.shields.io/twitter/follow/purvish37?logo=twitter&style=for-the-
 <a href="https://www.upwork.com/freelancers/~01d9e6d7d8dcbb86dc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
 
+<img align="right" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" alt="code" width="400">
 ### Skills
 
 <p align="left">
