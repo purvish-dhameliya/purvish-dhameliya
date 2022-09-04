@@ -10,6 +10,11 @@ Hyy, I hold a BCA degree from VNSGU,surat in 2021 and currently, I am studying "
 * ✉️  You can contact me at [purvishdhameliya37@gmail.com](mailto:purvishdhameliya37@gmail.com)
 * 🧠  I'm learning ReactJs and Nodejs(Basic) Technologies
 
+<a href="https://www.twitter.com/purvish37" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/purvish37?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000"
+/></a><a href="https://www.github.com/PurvishDhameliya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/PurvishDhameliya?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
+
 ### Skills
 
 <p align="left">
@@ -34,14 +39,14 @@ Hyy, I hold a BCA degree from VNSGU,surat in 2021 and currently, I am studying "
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PurvishDhameliya"><img src="https://github-readme-stats.vercel.app/api?username=PurvishDhameliya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PurvishDhameliya's GitHub stats" /></a>
+<a href="http://www.github.com/PurvishDhameliya"><img src="https://github-readme-stats.vercel.app/api?username=PurvishDhameliya&show_icons=true&hide=prs,&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="PurvishDhameliya's GitHub stats" /></a>
 
-<a href="http://www.github.com/PurvishDhameliya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PurvishDhameliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/PurvishDhameliya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PurvishDhameliya&stroke=ef4444&background=000000&ring=f97316&fire=f97316&currStreakNum=ef4444&currStreakLabel=f97316&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/PurvishDhameliya"><img src="https://activity-graph.herokuapp.com/graph?username=PurvishDhameliya&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/PurvishDhameliya"><img src="https://activity-graph.herokuapp.com/graph?username=PurvishDhameliya&bg_color=000000&color=ef4444&line=facc15&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/PurvishDhameliya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvishDhameliya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/PurvishDhameliya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvishDhameliya&langs_count=10&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/PurvishDhameliya/TeamMeet-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PurvishDhameliya&repo=TeamMeet-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PurvishDhameliya/TeamMeet-Backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PurvishDhameliya&repo=TeamMeet-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/PurvishDhameliya/TeamMeet-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PurvishDhameliya&repo=TeamMeet-Frontend&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PurvishDhameliya/TeamMeet-Backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PurvishDhameliya&repo=TeamMeet-Backend&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
