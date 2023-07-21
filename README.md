@@ -4,11 +4,10 @@ Hi 👋 My name is Purvish Dhameliya
 ReactJs developer
 -----------------
 
-Hyy, I hold a BCA degree from VNSGU,surat in 2021 and currently, I am studying "MCA" at Sardar Vallabhbhai Patel Institute of Technology, Vasad.
-
+Hyy, I recently completed my MCA degree from SVIT,vasad in 2023.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [purvishdhameliya37@gmail.com](mailto:purvishdhameliya37@gmail.com)
-* 🧠  I'm learning ReactJs and Nodejs(Basic) Technologies
+* 🧠  I'm learning ReactJs and Nodejs Technologies
 
 <a href="https://www.twitter.com/purvish37" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/purvish37?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000"
