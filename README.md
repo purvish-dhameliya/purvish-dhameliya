@@ -1,7 +1,7 @@
 Hi 👋 My name is Purvish Dhameliya
 ==================================
 
-ReactJs developer
+ Mern developer
 -----------------
 
 Hyy, I recently completed my MCA degree from SVIT,vasad in 2023.
@@ -14,10 +14,12 @@ src="https://img.shields.io/twitter/follow/purvish37?logo=twitter&style=for-the-
 /></a><br /><br />
 
 ### Working Experience
+
 <a href="https://www.upwork.com/freelancers/~01d9e6d7d8dcbb86dc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
 
 <img align="right" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" alt="code" width="400">
+
 ### Skills
 
 <p align="left">
@@ -34,9 +36,4 @@ src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&
 </p>
 
 ### Badges
-
 <a href="https://github.com/PurvishDhameliya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurvishDhameliya&langs_count=10&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/PurvishDhameliya/TeamMeet-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PurvishDhameliya&repo=TeamMeet-Frontend&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/PurvishDhameliya/TeamMeet-Backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PurvishDhameliya&repo=TeamMeet-Backend&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
