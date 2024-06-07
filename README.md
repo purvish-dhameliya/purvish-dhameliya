@@ -35,3 +35,6 @@ src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&
 
 ### Badges
 <a href="https://github.com/purvish-dhameliya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvish-dhameliya&langs_count=10&title_color=f97316&text_color=ef4444&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Holopin badges
+[![An image of @purvishdhameliya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/purvishdhameliya)](https://holopin.io/@purvishdhameliya)
